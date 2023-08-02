@@ -37,3 +37,5 @@ int main() {
 	}
   
 }
+
+// Can optimize it by removing some unnecessary code
